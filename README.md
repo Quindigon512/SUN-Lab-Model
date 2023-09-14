@@ -8,3 +8,5 @@
 # Purpose:  Models the SUN Lab with Card Swipes
 #           and Allows Admins to View Logs and
 #           Activate/Deactivate Accounts
+
+# Did NOT Implement Sorting the Swipe Logs by Time, Only by ID and Date. See Screenshots for Details.
